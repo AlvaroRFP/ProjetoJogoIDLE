@@ -1,0 +1,1 @@
+Uma tentativa de jogo IDLE afim de estudar javascript e lógica de programação. Fique à vontade para finalizar/modificar.
